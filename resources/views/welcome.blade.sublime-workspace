@@ -1,0 +1,634 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bakgrou",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"c",
+				"cover\tobject-fit"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"H",
+				"header"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"bacg",
+				"background-color\tproperty"
+			],
+			[
+				"pas",
+				"Password"
+			],
+			[
+				"tra",
+				"translateZ()\ttransform"
+			],
+			[
+				"ima",
+				"background-image\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"connect",
+				"connect_error"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"e",
+				"Email"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"s",
+				"showwidth"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"co",
+				"Country"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"f",
+				"for\tfor (…) {…}"
+			],
+			[
+				"k",
+				"khmer\tlist-style-type"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"texts",
+				"text-shadow\tproperty"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"he",
+				"heading"
+			],
+			[
+				"borderc",
+				"border-collapse\tproperty"
+			],
+			[
+				"spa",
+				"word-spacing\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"r",
+				"rotateX()\ttransform"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"wow",
+				"data-wow-delay"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"padi",
+				"padding-left\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mR",
+				"margin-left\tproperty"
+			],
+			[
+				"it",
+				"align-items\tproperty"
+			],
+			[
+				"ce",
+				"checkbox"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"all",
+				"align-self\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"Bo",
+				"bounceInLeft"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"cl",
+				"colspan\tAttr"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"textc",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/NOUMAN  BAIG/Desktop/lamb/la.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/lamb/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/resp/resp.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/resp/css/style.css",
+		"/C/wamp64/www/sessional/php/index1.php",
+		"/C/wamp64/www/sessional/index.php",
+		"/C/wamp64/www/sessional/index4.html",
+		"/C/wamp64/www/sessional/index3.html",
+		"/C/wamp64/www/sessional/css/style.css",
+		"/C/wamp64/www/sessional/index1.html",
+		"/C/wamp64/www/sessional/index.html",
+		"/C/wamp64/www/labtask1/php/data.php",
+		"/C/wamp64/www/labtask1/signup.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/lab5/lab5.html",
+		"/C/wamp64/www/labtask1/php/login.php",
+		"/C/wamp64/www/labtask1/login.html",
+		"/C/wamp64/www/labtask1/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/fff.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/t1.html",
+		"/C/wamp64/www/project/cal1.php",
+		"/C/wamp64/www/project/bc.jpg",
+		"/C/Users/NOUMAN  BAIG/Desktop/nn.html",
+		"/C/wamp64/www/labtask1/php/log.php",
+		"/C/Users/NOUMAN  BAIG/Desktop/js/beginn.js",
+		"/C/Users/NOUMAN  BAIG/Desktop/pro/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/pro/index.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/resp/css/linearicons.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/menu/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/labtask/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/labtask/task.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/pro/js/jquery.js",
+		"/C/Users/NOUMAN  BAIG/Desktop/cvform.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/tgg/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/tgg/tg.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/ismail.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/tg/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/tg/tg.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/tg.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/CV.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/js/begin.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/mycv.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/lamb/css/linearicons.css",
+		"/C/Program Files (x86)/Sublime Text 3/cv1.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/cv.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/cv1.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/menu/css/linearicons.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/menu/index.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/menu/style.css",
+		"/C/Users/NOUMAN  BAIG/Downloads/appy/appy/index.html",
+		"/C/Users/NOUMAN  BAIG/Downloads/appy/appy/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/appyy/appy.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/appyy/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Downloads/appy/appy/css/linearicons.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/b2/css/pr.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/b2/pr.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/66.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/New folder/p.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/New folder/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/lmb/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/lmb/lmb.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/lmb/css/lambo.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/lambo.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/fm.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/New folder/css/bootstrap.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/New folder/css/animate.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/form1.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/form.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/tb2.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/tb2/table.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/tb2/animate.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/table.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/cr7/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/cr7/noma.html",
+		"/C/lecture 2/12.html",
+		"/C/lecture 2/css/style.css",
+		"/C/Users/NOUMAN  BAIG/Desktop/p.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/noma.html",
+		"/C/Users/NOUMAN  BAIG/Desktop/55.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "welcome.blade.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
